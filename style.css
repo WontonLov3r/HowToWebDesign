@@ -1,0 +1,16 @@
+div.row div {
+    background-color:lightblue;
+    text-align:center;
+    border: 5px Solid white;
+    padding: 50px;
+    color:black;
+    outline: 5px solid #B76E79;
+}
+
+.spacer {
+    margin:5px;
+}
+
+.white {
+    color:white;
+}
